@@ -1,14 +1,8 @@
 [
   {
-    "username": "LeonBlade",
-    "repo": "BDTHPlugin",
-    "branch": "master",
-    "configFolder": "BDTHPlugin"
-  },
-  {
-    "username": "LeonBlade",
-    "repo": "HeelsPlugin",
+    "username": "steakwipe",
+    "repo": "unstableohnooo/Ktisis",
     "branch": "main",
-    "configFolder": "HeelsPlugin"
+    "configFolder": "Ktisis"
   }
 ]
